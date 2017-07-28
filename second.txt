@@ -1,1 +1,4 @@
 hello second
+
+this text was added by master again
+this line was added by feature branch
